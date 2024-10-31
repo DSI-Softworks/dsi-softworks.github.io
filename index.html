@@ -6,6 +6,38 @@
     <title>DSI Softworks</title>
     <link rel="icon" type="image/x-icon" href="favicon.jpg">
     <style>
+        /* Styl pro responzivní obsah */
+        .centered-content, .centered-table {
+            max-width: 100%;
+            width: 90%;
+            margin: 0 auto;
+        }
+    
+        /* Upravené fonty */
+        h1 {
+            font-size: 24px;
+        }
+    
+        p {
+            font-size: 16px;
+        }
+    
+        /* Responsivní úpravy pro menší obrazovky */
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 20px;
+            }
+    
+            .centered-table, .centered-content {
+                width: 100%;
+            }
+    
+            p, td {
+                font-size: 14px;
+            }
+        }
+    
+        /* Vaše stávající stylování */
         body {
             font-family: Arial, sans-serif;
             background-image: url('https://www.walkeravolf.cz/uhnf/start_screen_16-9_1920x1080.jpg');
@@ -47,6 +79,7 @@
             margin: 50px auto;
         }
     </style>
+    
 </head>
 <body>
 
