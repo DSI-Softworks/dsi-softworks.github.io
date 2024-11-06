@@ -43,4 +43,4 @@ Left/right thumbstick: Move cursor
 Start button: Open in-game menu
 Left/Right Trigger: Hold the trigger to activate the magnet, which will automatically move the cursor to the next highlighted active text according to the direction you selected with the thumbstick.
 
-In the quesl log and on the map, you can use the thumbstick to scroll through the list or zoom in/out on the map.
+In the quest log and on the map, you can use the thumbstick to scroll through the list or zoom in/out on the map.
