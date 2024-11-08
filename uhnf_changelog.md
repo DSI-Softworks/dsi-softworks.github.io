@@ -19,7 +19,7 @@ First public release.
 
 ## [1.09] - 2024-11-10
   
-- Non-public release candidate.
+Non-public release candidate.
  
 ### Added
 
