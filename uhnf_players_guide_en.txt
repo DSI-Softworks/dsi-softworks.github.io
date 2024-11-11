@@ -31,7 +31,7 @@ Keyboard shortcuts for quick navigation:
 [TAB]: Open the quest log
 [F5]: Quick save
 [F8]: Quick load
-[ESC]: Open in-game-menu
+[ESC]: Open in-game menu
 
 Controller support:
 
