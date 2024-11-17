@@ -17,6 +17,7 @@ First public release on Epic Games Store.
 ### Fixed
  
 - minor text corrections
+- fixed 4:3 ratio
 
 
 ## [1.1] - 2024-11-11
